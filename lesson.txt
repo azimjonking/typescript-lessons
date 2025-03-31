@@ -9,3 +9,4 @@
 ////////////// Lesson 9. Abstract class /////////////////
 ////////////// Lesson 10. Access modifiers (public private protected readonly) /////////////////
 ////////////// Lesson 11. namespace, module (nomlar fazosi) /////////////////
+////////////// Lesson 12. Generics (types, array, function) /////////////////
