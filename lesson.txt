@@ -11,3 +11,4 @@
 ////////////// Lesson 11. namespace, module (nomlar fazosi) /////////////////
 ////////////// Lesson 12. Generics (types, array, function) /////////////////
 ////////////// Lesson 13. Generics #2 (type, class, interface) /////////////////
+////////////// Lesson 14. Generics #3 (extends, ternar) /////////////////
