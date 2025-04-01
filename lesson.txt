@@ -12,3 +12,5 @@
 ////////////// Lesson 12. Generics (types, array, function) /////////////////
 ////////////// Lesson 13. Generics #2 (type, class, interface) /////////////////
 ////////////// Lesson 14. Generics #3 (extends, ternar) /////////////////
+////////////// Lesson 15.  Generics #4 (extends, infer, ternar)  /////////////////
+////////////// Lesson 16.  Utils (Partial, Required, NonNullable, Record)  /////////////////
