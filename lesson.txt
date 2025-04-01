@@ -14,3 +14,7 @@
 ////////////// Lesson 14. Generics #3 (extends, ternar) /////////////////
 ////////////// Lesson 15.  Generics #4 (extends, infer, ternar)  /////////////////
 ////////////// Lesson 16.  Utils (Partial, Required, NonNullable, Record)  /////////////////
+////////////// Lesson 17. Utils #2 (Readonly, ReadonlyArray)  /////////////////
+////////////// Lesson 18. Utils #3 (Pick, Extract, Exclude, Omit)  /////////////////
+////////////// Lesson 19. Utils #4 Parameters, ConstructorParameters, ReturnType, InstanceType  /////////////////
+////////////// Lesson 20. Utils #5 (Uppercase, Lowercase, Capitalize, Uncapitalize)  /////////////////
