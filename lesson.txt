@@ -19,3 +19,4 @@
 ////////////// Lesson 19. Utils #4 Parameters, ConstructorParameters, ReturnType, InstanceType  /////////////////
 ////////////// Lesson 20. Utils #5 (Uppercase, Lowercase, Capitalize, Uncapitalize)  /////////////////
 ////////////// Lesson 21. Mustahkamlash (abstract, modules)  /////////////////
+////////////// Lesson 22. BigInt vs Number  /////////////////
