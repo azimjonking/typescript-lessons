@@ -20,3 +20,4 @@
 ////////////// Lesson 20. Utils #5 (Uppercase, Lowercase, Capitalize, Uncapitalize)  /////////////////
 ////////////// Lesson 21. Mustahkamlash (abstract, modules)  /////////////////
 ////////////// Lesson 22. BigInt vs Number  /////////////////
+////////////// Lesson 23. ?? (nullish assignment) vs ? (chaining operator)  /////////////////
