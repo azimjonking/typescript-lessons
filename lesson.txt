@@ -21,3 +21,4 @@
 ////////////// Lesson 21. Mustahkamlash (abstract, modules)  /////////////////
 ////////////// Lesson 22. BigInt vs Number  /////////////////
 ////////////// Lesson 23. ?? (nullish assignment) vs ? (chaining operator)  /////////////////
+////////////// Lesson 24. ! operator va foydalanuvchi ma'lumotlarini tekshirish  /////////////////
