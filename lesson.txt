@@ -22,3 +22,4 @@
 ////////////// Lesson 22. BigInt vs Number  /////////////////
 ////////////// Lesson 23. ?? (nullish assignment) vs ? (chaining operator)  /////////////////
 ////////////// Lesson 24. ! operator va foydalanuvchi ma'lumotlarini tekshirish  /////////////////
+////////////// Lesson 25. Webpack & HTML types  /////////////////
