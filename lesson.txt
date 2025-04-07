@@ -23,3 +23,5 @@
 ////////////// Lesson 23. ?? (nullish assignment) vs ? (chaining operator)  /////////////////
 ////////////// Lesson 24. ! operator va foydalanuvchi ma'lumotlarini tekshirish  /////////////////
 ////////////// Lesson 25. Webpack & HTML types  /////////////////
+////////////// Lesson 26. TypeScript kompilyatsiyasining ichki arxitekturasi  /////////////////
+////////////// Lesson 27. TSConfig(files, include, exclude, extend, JSsuppot)  /////////////////

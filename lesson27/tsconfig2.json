@@ -1,0 +1,4 @@
+{
+  "include": ["index*", "modules/index.ts", "**/index.ts"],
+  "exclude": ["utils/index.ts"]
+}
