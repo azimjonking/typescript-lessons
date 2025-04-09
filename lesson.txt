@@ -25,3 +25,4 @@
 ////////////// Lesson 25. Webpack & HTML types  /////////////////
 ////////////// Lesson 26. TypeScript kompilyatsiyasining ichki arxitekturasi  /////////////////
 ////////////// Lesson 27. TSConfig(files, include, exclude, extend, JSsuppot)  /////////////////
+////////////// Lesson 28. TSConfig #2 (EMIT)  /////////////////
